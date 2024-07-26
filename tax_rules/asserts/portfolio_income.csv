@@ -1,0 +1,6 @@
+pan_id,bank_account,bank_name,ifsc_code,bank_interest,stock_id,stock_symbol,dividend_yield,sector
+BBFPB8849M,"1234567890","Bank of Mumbai","BOMM123456","3.5%","101","XYZ","0.05","Finance"
+CCGQW1234P,"9876543210","Delhi Bank","DBIN987654","4.2%","102","ABC","0.03","Technology"
+DDXRA9876Q,"5678901234","Bangalore Bank","BBAN567890","2.8%","103","DEF","0.02","Healthcare"
+EEYTB5678R,"7890123456","Chennai Bank","CBCH789012","3.0%","104","GHI","0.04","Energy"
+FFZXC1234S,"8901234567","Kolkata Bank","KBKO890123","2.5%","105","JKL","0.01","Consumer Goods"
